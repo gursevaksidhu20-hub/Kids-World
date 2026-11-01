@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Playful Open Storybook / Learning Tablet Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,68 C26,58 38,56 52,58 C53,58 54,58 54,60 L54,82 C43,80 34,81 28,84 C26.9,84.5 26,83.7 26,82.5 Z" />
+    <path
+        android:fillColor="#FFF4E0"
+        android:pathData="M82,68 C82,58 70,56 56,58 C55,58 54,58 54,60 L54,82 C65,80 74,81 80,84 C81.1,84.5 82,83.7 82,82.5 Z" />
+
+    <!-- Book Spine / Cover Rim -->
+    <path
+        android:fillColor="#FF6B6B"
+        android:pathData="M24,82 C24,84 27,86 32,85 L52,82 C53,82 55,82 56,82 L76,85 C81,86 84,84 84,82 L84,85 C84,87 81,89 76,88 L55,85 C54,85 54,85 53,85 L32,88 C27,89 24,87 24,85 Z" />
+
+    <!-- Cute Smiling Mascot Star in the Center -->
+    <!-- Star Body -->
+    <path
+        android:fillColor="#FFD93D"
+        android:pathData="M54,23 L58.5,34.5 L70.5,35 L61.5,43 L64.5,55 L54,48.5 L43.5,55 L46.5,43 L37.5,35 L49.5,34.5 Z" />
+
+    <!-- Star Glow Outline -->
+    <path
+        android:strokeColor="#FFB300"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,23 L58.5,34.5 L70.5,35 L61.5,43 L64.5,55 L54,48.5 L43.5,55 L46.5,43 L37.5,35 L49.5,34.5 Z" />
+
+    <!-- Star Mascot Happy Eyes -->
+    <path
+        android:fillColor="#24324A"
+        android:pathData="M50,38a2,2 0 1,0 4,0a2,2 0 1,0 -4,0" />
+    <path
+        android:fillColor="#24324A"
+        android:pathData="M58,38a2,2 0 1,0 4,0a2,2 0 1,0 -4,0" />
+
+    <!-- Star Mascot Rosy Cheeks -->
+    <path
+        android:fillColor="#FF8FA3"
+        android:pathData="M46.5,42a2,1.2 0 1,0 4,0a2,1.2 0 1,0 -4,0" />
+    <path
+        android:fillColor="#FF8FA3"
+        android:pathData="M59.5,42a2,1.2 0 1,0 4,0a2,1.2 0 1,0 -4,0" />
+
+    <!-- Star Mascot Smile -->
+    <path
+        android:strokeColor="#24324A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M52,43 Q55,47 58,43" />
+
+    <!-- Colorful Crayon/Pencil on the side -->
+    <!-- Pencil Body -->
+    <path
+        android:fillColor="#4D96FF"
+        android:pathData="M34,44 L39,39 L47,47 L42,52 Z" />
+    <!-- Pencil Tip -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M34,44 L42,52 L32,54 Z" />
+    <!-- Lead -->
+    <path
+        android:fillColor="#24324A"
+        android:pathData="M32,54 L34.5,51.5 L31.5,49 Z" />
+
+    <!-- Letter 'A' Block on Left Book Page -->
+    <path
+        android:fillColor="#6BCB77"
+        android:pathData="M35,63 L41,63 L43,76 L39,76 L38.3,71 L36.7,71 L36,76 L32.5,76 Z M37,66 L38,70 L37.2,70 Z" />
+
+    <!-- Number '1 2 3' or Music Note on Right Book Page -->
+    <path
+        android:fillColor="#FF6B6B"
+        android:pathData="M65,63 L69,63 L69,76 L65,76 Z" />
+    <path
+        android:fillColor="#9D4EDD"
+        android:pathData="M71,65 C71,63 74,62 76,64 C77,65 76,67 74,69 L71,73 L77,73 L77,76 L71,76 Z" />
+
+    <!-- Sparkles -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,30 L31,27 L32,30 L35,31 L32,32 L31,35 L30,32 L27,31 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M78,32 L79,30 L80,32 L82,33 L80,34 L79,36 L78,34 L76,33 Z" />
+
+</vector>

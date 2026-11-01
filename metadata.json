@@ -1,0 +1,6 @@
+{
+  "name": "Kids World",
+  "description": "All-in-one interactive learning app for kids with ABC, Numbers 1–100, Coloring Book, Free Drawing, Animals, Colors, Vocabulary, Quizzes, Writing Practice, Nursery Rhymes, and Rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
